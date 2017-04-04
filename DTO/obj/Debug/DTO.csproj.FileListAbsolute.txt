@@ -1,0 +1,4 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DTO\bin\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DTO\bin\Debug\DTO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DTO\obj\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DTO\obj\Debug\DTO.pdb

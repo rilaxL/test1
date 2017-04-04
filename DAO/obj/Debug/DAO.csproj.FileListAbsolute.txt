@@ -1,0 +1,7 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\bin\Debug\DAO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\bin\Debug\DAO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\bin\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\bin\Debug\DTO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\obj\Debug\DAO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAO\obj\Debug\DAO.pdb

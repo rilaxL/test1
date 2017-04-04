@@ -1,0 +1,10 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\Negocio.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\DAOOracle.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\DAOOracle.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\bin\Debug\DTO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\obj\Debug\Negocio.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Negocio\obj\Debug\Negocio.pdb

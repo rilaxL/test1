@@ -1,0 +1,11 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\Test.exe
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\Test.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\obj\x86\Debug\Test.exe
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\obj\x86\Debug\Test.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\Negocio.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\DAOOracle.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\DTO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\Negocio.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\bin\Debug\DAOOracle.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache

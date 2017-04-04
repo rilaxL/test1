@@ -1,0 +1,12 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DAOOracle.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DAOOracle.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DAO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DTO.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\Utilidades.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DAO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\DTO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\bin\Debug\Utilidades.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\obj\Debug\DAOOracle.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\obj\Debug\DAOOracle.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\DAOOracle\obj\Debug\DAOOracle.pdb

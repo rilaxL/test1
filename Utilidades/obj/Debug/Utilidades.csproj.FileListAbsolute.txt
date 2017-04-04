@@ -1,0 +1,5 @@
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Utilidades\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Danilo\Documents\Visual Studio 2010\Projects\Panol\Utilidades\obj\Debug\Utilidades.pdb
